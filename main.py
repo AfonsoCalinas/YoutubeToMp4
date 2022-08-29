@@ -2,6 +2,8 @@ import pytube
 import ffmpeg
 import os
 
+# !!! DON'T FORGET TO CHANGE THE <USER> IN LINE 7, 38, 39, 40 !!!
+# !!! IF YOU DO ANY CHANGES TO THE FOLDER'S NAME OR ANY OTHER NAME THAT COMPROMISES THE PROJECT'S NEEDED DIRECTORY PATHS, PLEASE DO THOSE CHANGES ON THE CODE ASWELL!!!
 SAVE_PATH = "C:\\Users\\<user>\\Desktop\\YoutubeToMp4\\resources"
 
 link = input("> ")
