@@ -78,3 +78,4 @@ Make sure you take your cool video out of the folder, since if you run the progr
 
 # Special Thanks
 
+[RainyPT](https://github.com/RainyPT) and [Ramos](https://github.com/NoPalm0il)
