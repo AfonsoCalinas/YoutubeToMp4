@@ -52,7 +52,7 @@ name = re.escape(get_throttling_function_name(js))
 6. And your done :)
 
 
-# Installation 
+# Installation 💾
 
 I left a .txt file in the project so you can just do the following in your console (once your in the project's directory):
 ```
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 And I'll leave a link to [PIP](https://pypi.org/project/pip/) just in case you don't have it installed, it's really usefull!
 
 
-# How to use
+# How to use 🔍
 
 It's pretty simple! Just go into the project's directory and do the following:
 ```
