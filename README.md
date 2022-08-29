@@ -96,6 +96,8 @@ Once you pasted it and clicked enter, the program will download both video and a
 
 Make sure you take your cool video out of the folder, since if you run the program again, the program will ask you if you want to overwrite the cool video you had in the first place.
 
+Also! There are 2 .txt files in both output and resources folders, so that Github let's me create these "empty" folders in the project :)
+
 # Special Thanks 💖
 
 [RainyPT](https://github.com/RainyPT) and [Ramos](https://github.com/NoPalm0il)
