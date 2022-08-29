@@ -60,3 +60,21 @@ pip install -r requirements.txt
 ```
 
 And I'll leave a link to [PIP](https://pypi.org/project/pip/) just in case you don't have it installed, it's really usefull!
+
+
+# How to use
+
+It's pretty simple! Just go into the project's directory and do the following:
+```
+python main.py
+```
+To start the program.
+
+Now a little arrow will pop up and all you need to do is paste the link of your youtube video!
+
+Once you pasted it and clicked enter, the program will download both video and audio streams from the video you've chosen to the resources folder, and with the help of FFMPEG Library, it will merge them into one single cool video that you want :)
+
+Make sure you take your cool video out of the folder, since if you run the program again, the program will ask you if you want to overwrite the cool video you had in the first place.
+
+# Special Thanks
+
