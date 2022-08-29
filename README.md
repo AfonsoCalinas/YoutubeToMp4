@@ -68,23 +68,17 @@ I will leave a really intuitive guide [here](https://www.geeksforgeeks.org/how-t
 
 # How to use 🔍
 
-It's pretty simple! Just go into the code and change all the ```<user>``` to the name of your user!
+It's pretty simple! Just go into the code and replace the ```<user>``` with the name of your user!
 
-Once you've done that, if you change the directory of anything please change it in the code aswell.
+Once you've done that, if you change the names of the directories please change it in the ```SAVE_PATH``` variable aswell.
 
 _
 
 Example: Let's say you've downloaded this project and the folder is in your ```downloads folder```.
 
-In that case you have to change the lines 7, 38, 39, 40, to:
+In that case you have to change the line 7 to something like this:
 
-Line 7: ```SAVE_PATH = "C:\\Users\\<user>\\Downloads\\YoutubeToMp4\\resources"```
-
-Line 38: ```video_stream = ffmpeg.input('C:\\Users\\<user>\\Downloads\\YoutubeToMp4\\resources\\video.mp4')```
-
-Line 39: ```audio_stream = ffmpeg.input('C:\\Users\\<user>\\Downloads\\YoutubeToMp4\\resources\\audio.mp3')```
-
-Line 40: ```ffmpeg.output(audio_stream, video_stream, 'C:\\Users\\<user>\\Downloads\\YoutubeToMp4\\output\\coolvideo.mp4').run()```
+Line 7: ```SAVE_PATH = "C:\\Users\\<user>\\Downloads\\YoutubeToMp4"```
 
 _
 
