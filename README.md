@@ -61,6 +61,10 @@ pip install -r requirements.txt
 
 And I'll leave a link to [PIP](https://pypi.org/project/pip/) just in case you don't have it installed, it's really usefull!
 
+Since we're only installing FFMPEG for a Python Library, we need to also install FFMPEG itself!
+
+I will leave a really intuitive guide [here](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/) on how to install it :)
+
 
 # How to use 🔍
 
