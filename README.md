@@ -64,7 +64,27 @@ And I'll leave a link to [PIP](https://pypi.org/project/pip/) just in case you d
 
 # How to use 🔍
 
-It's pretty simple! Just go into the project's directory and do the following:
+It's pretty simple! Just go into the code and change all the ```<user>``` to the name of your user!
+
+Once you've done that, if you change the directory of anything please change it in the code aswell.
+
+_
+
+Example: Let's say you've downloaded this project and the folder is in your ```downloads folder```.
+
+In that case you have to change the lines 7, 38, 39, 40, to:
+
+Line 7: ```SAVE_PATH = "C:\\Users\\<user>\\Downloads\\YoutubeToMp4\\resources"```
+
+Line 38: ```video_stream = ffmpeg.input('C:\\Users\\<user>\\Downloads\\YoutubeToMp4\\resources\\video.mp4')```
+
+Line 39: ```audio_stream = ffmpeg.input('C:\\Users\\<user>\\Downloads\\YoutubeToMp4\\resources\\audio.mp3')```
+
+Line 40: ```ffmpeg.output(audio_stream, video_stream, 'C:\\Users\\<user>\\Downloads\\YoutubeToMp4\\output\\coolvideo.mp4').run()```
+
+_
+
+Once everything is set up and ready to go, enter the project's directory in your console and do as follows:
 ```
 python main.py
 ```
