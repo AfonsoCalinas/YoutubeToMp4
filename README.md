@@ -58,3 +58,5 @@ I left a .txt file in the project so you can just do the following in your conso
 ```
 pip install -r requirements.txt
 ```
+
+And I'll leave a [PIP](https://pypi.org/project/pip/) link just in case you don't have it installed, it's really usefull!
