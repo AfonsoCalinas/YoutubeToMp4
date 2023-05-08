@@ -59,7 +59,7 @@ I left a .txt file in the project so you can just do the following in your conso
 pip install -r requirements.txt
 ```
 
-And I'll leave a link to [PIP](https://pypi.org/project/pip/) just in case you don't have it installed, it's really usefull!
+And I'll leave a link to [PIP](https://pypi.org/project/pip/) just in case you don't have it installed, it's really useful!
 
 Since we're only installing FFMPEG for a Python Library, we need to also install FFMPEG itself!
 
