@@ -36,7 +36,7 @@ After that, the program will ask you for the youtube link, and here's an example
 https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran
 ```
 
-After this FFMPEG will fuse both the audio and video streams and the result is your desired video!
+After this FFMPEG will fuse both the audio and video files that have popped-up in your desired save path (I highly suggest you don't delete them until your video is done).
 
 
 # Special Thanks 💖
